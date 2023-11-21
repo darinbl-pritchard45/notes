@@ -18,3 +18,6 @@ Let's GO
 
 # 2023-11-20
 - "Keep it simple, stupid!"
+
+# 2023-11-21
+- "Today's programming wisdom is to focus on writing clean, maintainable, and modular code. It's important to remember that code is read more often than it's written, so strive to make your code easy to understand for yourself and others who may work on it in the future. Also, don't be afraid to use existing libraries and frameworks to save time and reduce errors. Lastly, always thoroughly test your code to ensure it works as intended and handle any potential edge cases."
