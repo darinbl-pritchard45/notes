@@ -46,3 +46,9 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote humorously highlights the ongoing challenge that programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of considering the end-user's potential limitations and behaviors when designing and developing software.
+
+# 2023-11-28
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your work, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the project down into smaller, manageable steps, so that it is easier to stay on track and avoid getting lost in the details. Use project management tools, such as Trello or Asana, to keep track of your progress and make sure that nothing falls through the cracks. 
+ - 来自NLP
