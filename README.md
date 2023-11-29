@@ -52,3 +52,6 @@ This quote humorously highlights the ongoing challenge that programmers face in 
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the project down into smaller, manageable steps, so that it is easier to stay on track and avoid getting lost in the details. Use project management tools, such as Trello or Asana, to keep track of your progress and make sure that nothing falls through the cracks. 
  - 来自NLP
+
+# 2023-11-29
+- "Keep it simple, stupid!"
