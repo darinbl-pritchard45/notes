@@ -55,3 +55,8 @@ Second, planning ahead is crucial. Before starting a new project or undertaking 
 
 # 2023-11-29
 - "Keep it simple, stupid!"
+
+# 2023-11-30
+- "Every line of code you write is a liability. Every line of code you don't write is an asset." - Jeff Atwood. 
+
+This quote emphasizes the importance of writing concise and efficient code. The fewer lines of code you have, the easier it is to maintain and debug your program. It's important to constantly strive for simplicity and avoid unnecessary complexity in your code.
