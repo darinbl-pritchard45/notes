@@ -66,3 +66,6 @@ This quote emphasizes the importance of writing concise and efficient code. The 
 
 Second, planning ahead is crucial. Make sure you have a plan in place for your projects, including deadlines and milestones. Knowing what you need to accomplish and when will keep you on track and prevent last-minute panic. Planning also includes thinking about potential obstacles and how to overcome them, so you're prepared for anything. 
  -- 212字
+
+# 2023-12-02
+- "Keep it simple, stupid!"
