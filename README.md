@@ -149,3 +149,8 @@ Another important aspect of programming wise is problem-solving. When faced with
 To be successful in the programming field, one must also have excellent communication and teamwork skills, as programming is a collaborative process. It is crucial to understand the needs and requirements of the project and work closely with other team members to achieve common goals. Effective communication can help identify potential issues and find creative solutions to problems. Additionally, learning to speak the "language" of other disciplines, like design, business, or psychology, can greatly enhance one' s ability to contribute to a project. 
  学习新技能并不断适应技术变革是编程智慧的精髓。编程是一个协作过程，因此良好的沟通和团队协作技能至关重要。了解项目的需求和团队成员之间的共同目标，可以帮助识别潜在问题并找到创新解决方案。此外，学习其他学科的语言，如设计、商业或心理学，可以大大提高一个人在项目中的贡献。
 总之，成为一名终身学习者，紧跟技术发展趋势，具备良好的沟通能力和团队协作精神，是今天编程的智慧所在。
+
+# 2023-12-23
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, always plan your day or week ahead of time. Write down your goals and tasks for the day, then break them down into smaller, manageable steps. You can use a planning tool like Trello or Asana to help keep track of your progress. Planning ahead will also help to avoid last-minute panic and stress.
