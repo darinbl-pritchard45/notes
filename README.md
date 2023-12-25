@@ -160,3 +160,14 @@ Second, always plan your day or week ahead of time. Write down your goals and ta
 
 Second, make a plan for your day or week, breaking down larger projects into smaller, manageable tasks. Using a task management tool, such as Trello or Asana, can help keep you organized and on track. Set reminders and deadline for each task, so you don't forget anything important. 
  -- 212个字符
+
+# 2023-12-25
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function, method, class, module, etc. names that accurately represent their purpose and functionality.
+2. Follow coding conventions and standards for the language and framework you're using. These guidelines exist to ensure consistency and reduce the risk of errors. They also make it easier for other developers to understand and work with your code. 
+3. Break your Code into logical, modular, reusable chunks. By doing this you can make your work more manageable and easier to follow. You can also reuse code across multiple projects, saving time and effort.  
+4. Comment your codes. Write comments that explain the purpose of each section of code, any assumptions it makes, or any known issues. It will help other programmers to quickly understand your logic and make modifications easily.   
+5. Always write tests for your functions and methods. Testing ensures that your implementation works as intended and helps you to identify and fix any errors or inconsistencies. Writing tests also makes it much easier and quicker to fix issues when they arise.    
+6. Learn and use version control systems like Git. Version control allows you and your team to work on the same codebase simultaneously, track changes, revert to previous versions, merge code from other contributors, all while maintaining a clean and organized code repository.     
+7. Keep up with the latest developments in your field. Read blogs, subscribe to newsletters, attend conferences, join communities, to stay informed about new technologies, tools, best practice, trends, so that you stay ahead of the curve and can apply these learnings to your own work.
