@@ -174,3 +174,10 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 
 # 2023-12-26
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Write code that is easy to read, understand, and maintain. Avoid unnecessary complexity and always strive to keep your codebase clean and modular. Remember, you write code once, but read it multiple times. Thus, invest time in making your code clear and concise. Also, embrace debugging as a crucial part of the development process, and always test your code thoroughly to ensure its reliability and efficiency."
+
+# 2023-12-27
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that are most critical to your project, you can ensure that you are making progress towards your goals.
+
+Second, always plan beforehand. When starting a new project or working on a complex task, create a plan that outlines the steps you need to take to complete the task. Using a planning tool like a Trello board or a Google Doc can help keep you organized and on track. Planning ahead will also help prevent you from getting stuck or spending too much time on an unnecessary task that could have been avoided. 
+ 　　
+Finally, stay organised. As you work on your projects, maintain a clean and organized codebase. Following best practices like using version control, organizing your files and classes, using concise variable names, commenting your code, etc. will make your life as a programmer much easier. Organized code is easier to maintain, debug, add new features, or pass on to other team members. It also makes it easier for you, as the programmer, to understand and work with your own code.
