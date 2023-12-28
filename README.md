@@ -181,3 +181,12 @@ Second, make a plan for your day or week, breaking down larger projects into sma
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan that outlines the steps you need to take to complete the task. Using a planning tool like a Trello board or a Google Doc can help keep you organized and on track. Planning ahead will also help prevent you from getting stuck or spending too much time on an unnecessary task that could have been avoided. 
  　　
 Finally, stay organised. As you work on your projects, maintain a clean and organized codebase. Following best practices like using version control, organizing your files and classes, using concise variable names, commenting your code, etc. will make your life as a programmer much easier. Organized code is easier to maintain, debug, add new features, or pass on to other team members. It also makes it easier for you, as the programmer, to understand and work with your own code.
+
+# 2023-12-28
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. Prioritize tasks: Always start with the most important task and work your way down the list. By focusing on the tasks with highest impact, you can ensure that your time is well spent.
+2. Plan ahead: Don't wait until the last minute to start a project. Planning ahead will save you time and stress in the long run. Break projects down into smaller tasks and set realistic deadlines for each one. 
+3. Stay organized: Use task management tools like Trello, Asana, or Todoist to keep track of your tasks. These tools will helps you stay on track and make sure you don' t forget anything important.  
+4. Learn from your mistakes: As a programmer, it' s essential to learn from the mistakes you make. Don ' t be afraid to look back and analyze what went wrong. Use this knowledge to improve your processes and avoid making the same error again.   
+5. Keep learning: Programming is a constantly evolving field. To stay ahead of the curve, make it a priority to read blogs, attend conferences, watch tutorials, etc. Not only will this help improveyour skills, but it will also keep you motivated and excited about yourwork.
