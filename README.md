@@ -536,3 +536,6 @@ In fewer than 200 words, this quote by computer scientist Donald Knuth emphasize
 
 Second, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to overcome them. It will also help to keep you focused and on track with your goals. 
  -- 250 words
+
+# 2024-03-12
+- "Keep it simple, stupid!"
