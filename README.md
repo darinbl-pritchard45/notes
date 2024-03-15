@@ -547,3 +547,13 @@ Second, planning ahead is crucial for success. Make a plan for your day, week, o
 - Today's programming wisdom is to be a lifelong learner. Technology is constantly evolving, and programming languages and tools are constantly changing. In order to stay ahead of the curve and be successful in the industry, it is essential to constantly update your knowledge and skills.
 
 One way to do this is by reading blogs, articles, books, research papers, etc. related to programming and technology. This will help you stay up-to-date with the latest trends and developments in your field. Additionally, attending conferences, workshops, meetups, or online courses can also provide valuable insights and networking opportunities.
+
+# 2024-03-15
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines ensure code maintainability, scalability, and reusability, making your software robust against evolving requirements. Remember, clarity and simplicity are virtues; complexity is a vice. Write code that is easy to understand and hard to misunderstand." 
+
+In detail:
+1. **Single Responsibility Principle (SRP)**: A class should have only one reason to change, meaning it should have only one primary responsibility.
+2. **Open-Closed Principle (OCP)**: Software entities like classes, modules, etc., should be open for extension but closed for modification.
+3. **Liskov Substitution Principle (LSP)**: Derived classes must be substitutable for their base classes without altering the correctness of the program.
+4. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on methods they do not use; instead, interfaces should be broken down into smaller, more specific ones.
+5. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; rather, details should depend on abstractions.
